@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hybeee
-- 👀 I’m interested in software development and cybersecurity
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: through my email szcsa2003@gmail.com
